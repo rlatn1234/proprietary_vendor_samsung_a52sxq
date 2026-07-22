@@ -20,6 +20,9 @@ jobs:
           # OKR OMC
           - model: "SM-A528N"
             region: "LUC"
+          # OKR OMC
+          - model: "SM-A528N"
+            region: "KTC"
 
     steps:
       - name: Checkout repo
