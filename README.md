@@ -7,16 +7,7 @@ To [download](https://github.com/BlackMesa123/proprietary_vendor_samsung_a52sxq/
 
 | OMC | CSC |
 | --- | --- |
-| BRI | BRI |
-| ODM | INS |
-| OJM | EGY |
 | OKR | KOO |
-| OLE | XID |
-| OLM | XSA |
-| OWA | CDR |
-| OWM | TGP |
-| OWO | PEO |
-| OXM | BTU |
 
 ### Credits
 - [@jesec](https://github.com/jesec) and [@corsicanu](https://github.com/corsicanu) for the original GitHub Actions script.
